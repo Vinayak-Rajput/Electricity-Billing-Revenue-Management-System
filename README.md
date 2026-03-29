@@ -117,5 +117,5 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Developed by [Your Name]**  
+**Developed by Vinayak Rajput**  
 *Expertise in Java, SQL, and Enterprise Architecture.*
